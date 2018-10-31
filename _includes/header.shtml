@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="google-site-verification" content="0tKqGuk8-J_1ef7dnfGnGgCMqvy2BDfii8CG-FhPv1g" />
+    <meta name="google-site-verification" content="AS2aZfyKxJzfya2U518e9SFhdZ32gUql21cqzgy6p-E" />
     <meta charset="utf-8">
     <meta name="author" content="Kan Zhong">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,19 +11,21 @@
 
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for Grace's Blog" href="rss.xml" />
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
+	
+	
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56124559-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-    <!-- Google Analytics -->
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-37166920-1']);
-      _gaq.push(['_trackPageview']);
+		gtag('config', 'UA-56124559-2');
+	</script>
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
+	
+	
 
     <style>
       body {
