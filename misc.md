@@ -1,7 +1,7 @@
 ---
 layout: default
 section: misc
-title: "Mingcong Song: Misc"
+title: "Kan Zhong: Misc"
 ---
 
 ## Special Links
