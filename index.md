@@ -13,7 +13,7 @@ title: "Kan Zhong: Homepage"
 I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing University](https://www.cqu.edu.cn/). I am lucky to work with my supervisor [Prof. Duo Liu](http://www.cs.cqu.edu.cn/info/1139/1329.htm). From 2016 to 2017, I was a visiting scholar of the Department of Electrical and Computer Engineering, [University of Florida](https://www.ece.ufl.edu/) from 2016 to 2017. During the stay in UFL, I joined [Intelligent Design of Efficient Architectures Laboratory (IDEAL)](http://www.ideal.ece.ufl.edu) and worked with [Prof. Tao Li](http://www.taoli.ece.ufl.edu/). Currently, I am a research enginieer in Huawei Inc.
 
 
-## Research Interests:
+## Research Interests
   * The application and software design of **emerging byte-addressable non-voatile memory**
   * High-performance and energy-efficient **mobile devices**
   * High-performance **storage systems**
