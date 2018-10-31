@@ -1,0 +1,18 @@
+<hr>
+  <font color=#767676>
+  <small>
+  <div style="text-align:center">
+        Mingcong Song@UFL &nbsp;&nbsp;&nbsp;&nbsp; Last updated: {{'now' | date: "%h %d, %Y"}}
+  </div>
+  <div style="text-align:center">
+        This webpage was built with
+          <a href="https://github.com/twbs/bootstrap">Bootstrap</a> and
+          <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+  </div>
+  </small>
+  </font>
+  <script src="//code.jquery.com/jquery.js"></script>
+  <script src="static/bootstrap/js/bootstrap.js"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=3xQ5aI2ds-2JOc-jPrJheBmNTc9fd592sJ7AgJkcTY8'></script>
+  </body>
+</html>
