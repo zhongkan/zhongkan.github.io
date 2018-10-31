@@ -4,6 +4,7 @@ section: misc
 title: "Kan Zhong: Misc"
 ---
 
+{% comment %}
 ## Special Links
   * [Conferences](http://www.confsearch.org/confsearch/faces/pages/topic.jsp?sortMode=1&graphicView=true&useTextLink=0&topic=Hardware&addConfQuery=&addConfDialogVisible=true&removeConf=818%3Bfalse&dummy=)
 
