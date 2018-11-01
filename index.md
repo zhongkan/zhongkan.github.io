@@ -21,17 +21,16 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
   
 ## Slected Publications
 ### Conferences
-* **[HPCA'18]** Mingcong Song, *__Kan Zhong__, Jiaqi Zhang, Yang Hu, Duo Liu, Weigong Zhang, Jing Wang, and Tao Li,* **["In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems"](static/papers/In-situ_AI.pdf)**, Proc. of the 24th IEEE International Symposium on High Performance Computer Architecture (HPCA), Feb. 2018. [[Lightning Talk]](https://www.youtube.com/watch?v=eKjfgcXZ7Ug)
+  * **[HPCA'18]** Mingcong Song, *__Kan Zhong__, Jiaqi Zhang, Yang Hu, Duo Liu, Weigong Zhang, Jing Wang, and Tao Li, * **["In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems"](static/papers/In-situ_AI.pdf)**, in Proceedings of the 24th IEEE International Symposium on High Performance Computer Architecture (HPCA), pages 1562-1567, Feb. 24-28, 2018 Vienna, Austria. [[Lightning Talk]](https://www.youtube.com/watch?v=eKjfgcXZ7Ug)
+  * **[DAC'17]** Xiao Zhu, Duo Liu, *__Kan Zhong__, Jinting Ren, and Tao Li, * **["SmartSwap: High-Performance and User Experience Friendly Swapping inMobile Systems"](static/papers/In-situ_AI.pdf)**, in Proceedings of the 54th Design Automation Conference (DAC), June 18-22, 2017, Austin, TX, USA.
+  * **[DATE'16]** *__Kan Zhong__, Duo Liu, Liang Liang, Linbo Long, Yi Lin, Zili Shao, * **["FLIC: Fast, Lightweight Checkpointing for Mobile Virtualization using NVRAM"](static/papers/In-situ_AI.pdf)**, in Proceedings of the 2016 Design, Automation & Test in Europe Conference & Exhibition (DATE), pages 1562-1567, Mar. 14-18, 2016, Dresden, Germany.
+  * **[DATE'15]** *__Kan Zhong__, Duo Liu, Linbo Long, Xiao Zhu, Weichen Liu, Qingfeng Zhuge, and Edwin H.-M. Sha, * **["_n_Code: Limiting Harmful Writes to Emerging Mobile NVRAM through Code Swapping"](static/papers/In-situ_AI.pdf)**, in Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE), pages 1305-1310,Mar. 9-13, 2015, Grenoble, France.
+  
 
 ### Journals
 
 {% comment %}
-Hi, I am currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, [University of Florida](https://www.ece.ufl.edu/). I am lucky to work in our awesome [Intelligent Design of Efficient Architectures Laboratory (IDEAL)](http://www.ideal.ece.ufl.edu) under the supervision of [Prof. Tao Li](http://www.taoli.ece.ufl.edu/). Prior to joining UFL, I received my M.S. degree from [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/) in 2013 and B.S. degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2010.
 
-## Research Interests:
-  * **Architecture and System support** for emerging machine learning and big data applications
-  * **AI-enabled IoT** and **Blockchain** system
-  * **Heterogeneous** computing, **energy-efficient** computing and **edge** computing
 
 ## Slected Publications
   * **[MICRO'18]** *Haiyu Mao, __Mingcong Song__, Tao Li, Yuting Dai, and Jiwu Shu,* **["LerGAN: A Zero-free, Low Data
