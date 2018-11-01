@@ -10,7 +10,7 @@ title: "Kan Zhong: Homepage"
 
 &nbsp;
 
-I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing University](https://www.cqu.edu.cn/). I am lucky to work with my supervisor [Prof. Duo Liu](http://www.cs.cqu.edu.cn/info/1139/1329.htm). From 2016 to 2017, I was a visiting scholar of the Department of Electrical and Computer Engineering, [University of Florida](https://www.ece.ufl.edu/) from 2016 to 2017. During the stay in UFL, I joined [Intelligent Design of Efficient Architectures Laboratory (IDEAL)](http://www.ideal.ece.ufl.edu) and worked with [Prof. Tao Li](http://www.taoli.ece.ufl.edu/). Currently, I am a research enginieer in Huawei Inc.
+I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing University](https://www.cqu.edu.cn/). I am lucky to work with my supervisor [Prof. Duo Liu](http://www.cs.cqu.edu.cn/info/1139/1329.htm). I was a visiting scholar of the Department of Electrical and Computer Engineering, [University of Florida](https://www.ece.ufl.edu/) from 2016 to 2017. During the stay in UFL, I joined [Intelligent Design of Efficient Architectures Laboratory (IDEAL)](http://www.ideal.ece.ufl.edu) and worked with [Prof. Tao Li](http://www.taoli.ece.ufl.edu/). Currently, I am a research enginieer in Huawei Inc.
 
 
 ## Research Interests
@@ -20,6 +20,10 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
   
   
 ## Slected Publications
+### Conferences
+* **[HPCA'18]** Mingcong Song, *__Kan Zhong__, Jiaqi Zhang, Yang Hu, Duo Liu, Weigong Zhang, Jing Wang, and Tao Li,* **["In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems"](static/papers/In-situ_AI.pdf)**, Proc. of the 24th IEEE International Symposium on High Performance Computer Architecture (HPCA), Feb. 2018. [[Lightning Talk]](https://www.youtube.com/watch?v=eKjfgcXZ7Ug)
+
+### Journals
 
 {% comment %}
 Hi, I am currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, [University of Florida](https://www.ece.ufl.edu/). I am lucky to work in our awesome [Intelligent Design of Efficient Architectures Laboratory (IDEAL)](http://www.ideal.ece.ufl.edu) under the supervision of [Prof. Tao Li](http://www.taoli.ece.ufl.edu/). Prior to joining UFL, I received my M.S. degree from [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/) in 2013 and B.S. degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2010.
