@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Kan Zhong: Homepage"
 ---
-<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="130px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="150px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Kan Zhong
 {% include social.html %}
@@ -40,12 +40,17 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
   * **[TCAD'15]** *Linbo Long, Duo Liu, Liang Liang, Xiao Zhu, __Kan Zhong__, Zili Shao, and Edwin H.-M. Sha,* **["Morphable ResistiveMemory Optimization for Mobile Virtualization"](static/papers/tcad15-ballon.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 6, pp. 891-904, Oct. 2015. (doi:10.1109/TCAD.2015.2495264)
   
 ## Awards and Honors
-
+  * National Scholarship 2012
+  * Bronze Medal, The ACM-ICPC Asia Regional Contest, Changchun Site, October 2012
+  * National Scholarship of Graduate Student, 2013
+  * First Prize Winner, The Programming Contest of Chongqing University, May 2013
+  * Silver Medal, The ACM-ICPC Invitation Tournament of Chengdu Site, June 2013
+  * First Prize Winner, The Programming Contest of Chongqing, September 2013
 
 ## Teaching Experience
   * **Teaching Assistant**
-  * CST30102, Computer Architecture (Enrollment: ~80), Spring 2014
-  * CST30102, Computer Architecture (Enrollment: ~90), Spring 2015
+    * CST30102, Computer Architecture (Enrollment: ~80), Spring 2014
+    * CST30102, Computer Architecture (Enrollment: ~90), Spring 2015
 
 {% comment %}
 
