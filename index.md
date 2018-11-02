@@ -39,13 +39,21 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
   * **[TCAD'15]** *__Kan Zhong__, Duo Liu, Liang Liang, Xiao Zhu, Linbo Long, Yi Wang, and Edwin H.-M. Sha,* **["Energy-Efficient In-memory Paging for Smartphones"](static/papers/tcad15-drswap.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 10, pp. 1577-1590, Oct. 2015. (doi:10.1109/TCAD.2015.2512904)
   * **[TCAD'15]** *Linbo Long, Duo Liu, Liang Liang, Xiao Zhu, __Kan Zhong__, Zili Shao, and Edwin H.-M. Sha,* **["Morphable ResistiveMemory Optimization for Mobile Virtualization"](static/papers/tcad15-ballon.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 6, pp. 891-904, Oct. 2015. (doi:10.1109/TCAD.2015.2495264)
   
+## Software
+  * **NVM-Swap**
+    * Building a NVRAM-based swapping system for mobile devices
+	* Code and details are available at [nvm-swap.bitbucket.io](https://nvm-swap.bitbucket.io/)
+  * **Flight-AR.Drone-2**
+    * A controller of parrot AR.drone 2 on Windows
+	* Code available at https://github.com/zhongkan/Flight-AR.Drone-2
+  
 ## Awards and Honors
-  * National Scholarship 2012
-  * Bronze Medal, The ACM-ICPC Asia Regional Contest, Changchun Site, October 2012
-  * National Scholarship of Graduate Student, 2013
   * First Prize Winner, The Programming Contest of Chongqing University, May 2013
   * Silver Medal, The ACM-ICPC Invitation Tournament of Chengdu Site, June 2013
   * First Prize Winner, The Programming Contest of Chongqing, September 2013
+  * National Scholarship of Graduate Student, 2013
+  * National Scholarship 2012
+  * Bronze Medal, The ACM-ICPC Asia Regional Contest, Changchun Site, October 2012
 
 ## Teaching Experience
   * **Teaching Assistant**
@@ -54,42 +62,4 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
 
 {% comment %}
 
-
-## Slected Publications
-  * **[MICRO'18]** *Haiyu Mao, __Mingcong Song__, Tao Li, Yuting Dai, and Jiwu Shu,* **["LerGAN: A Zero-free, Low Data
-Movement and PIM-based GAN Architecture"]()**, MICRO'18, to appear.
-  * **[ISCA'18]** *__Mingcong Song__, Jiechen Zhao, Yang Hu, Jiaqi Zhang, and Tao Li,* **["Prediction based Execution on Deep Neural Networks"](static/papers/Prediction_AI.pdf)**, Proc. the 45th ACM/IEEE International Symposium on Computer Architecture (ISCA). [[Lightning Talk]](https://www.youtube.com/watch?v=YdczKwzn1eU)
-  * **[ASPLOS'18]** *Yuting Dai, Tao Li, Benyong Liu, __Mingcong Song__, and Huixiang Chen* **[“Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications”]()**, Proc. of 23rd ACM International Conference on Architectural Support for Programming Languages and Oprating Systems (ASPLOS), Mar. 2018.
-  * **[HPCA'18]** *__Mingcong Song__, Kan Zhong, Jiaqi Zhang, Yang Hu, Duo Liu, Weigong Zhang, Jing Wang, and Tao Li,* **["In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems"](static/papers/In-situ_AI.pdf)**, Proc. of the 24th IEEE International Symposium on High Performance Computer Architecture (HPCA), Feb. 2018. [[Lightning Talk]](https://www.youtube.com/watch?v=eKjfgcXZ7Ug)
-  * **[HPCA'18]** *__Mingcong Song__, Jiaqi Zhang, Huixiang Chen, and Tao Li,* **["Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning"](static/papers/GAN.pdf)**, Proc. of the 24th IEEE International Symposium on High Performance Computer Architecture (HPCA), Feb. 2018. [[Lightning Talk]](https://www.youtube.com/watch?v=itVJW4qd5Yk)
-  * [ISPASS'17] *Huixiang Chen, Yang Hu, Meng Wang, __Mingcong Song__, and Tao Li,* **["GaaS workload characterization under NUMA architecture for virtualized GPU"](http://ieeexplore.ieee.org/document/7975271/)**, Proc. of 2017 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Apr. 2017.
-   * **[ASPLOS'17]** *Yang Hu, __Mingcong Song__, and Tao Li,* **[“Towards “Full Containerization” in Container Based Network Function Virtualization”](https://dl.acm.org/citation.cfm?id=3037713)**, Proc. of 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Apr. 2017.
-   * **[HPCA'17]** *__Mingcong Song__, Yang Hu, Huixiang Chen, and Tao Li,* **["Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures"](static/papers/P-CNN.pdf)**, Proc. of the 23rd IEEE International Symposium on High Performance Computer Architecture (HPCA), Feb. 2017. (**Best Paper Nomination**)
-   * **[PACT'16]** *__Mingcong Song__, Yang Hu, Yunlong Xu, Chao Li, Huixiang Chen, Jingling Yuan, and Tao Li,* **["Bridging the Semantic Gaps of GPU Acceleration for Scale-out CNN-based Big Data Processing: Think Big, See Small"](static/papers/D3NN.pdf)**, Proc. of the 25th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sep. 2016.
-   * [ICS'16] *Yunlong Xu, Rui Wang, Tao Li, __Mingcong Song__, Lan Gao, Zhongzhi Luan, and Depei Qian,* **["Scheduling Tasks with Mixed Timing Constraints in GPU-Powered Real-Time Systems"](https://dl.acm.org/citation.cfm?id=2926265)**, Proc. the 30th International Conference on Supercomputing (ICS), Jun. 2016. 
-   * **[ISCA'15]** *Chao Li, Yang Hu, Longjun Liu, Juncheng Gu, __Mingcong Song__, Jingling Yuan, Xiaoyao Liang, and Tao Li,* **["Towards Sustainable in-Situ Server Systems in the Big Data Era"](http://ieeexplore.ieee.org/document/7284052/)**, Proc. the 42nd ACM/IEEE International Symposium on Computer Architecture (ISCA), Jun. 2015.
-  
-## Awards and Honors
-  * Travel Grant for 45th Int'l Symp. on ISCA, 2018
-  * Travel Grant for 24th IEEE Symp. on HPCA, 2018
-  * Travel Grant for 22nd ACM Int'l Conf. on ASPLOS, 2017
-  * **Best Paper Nomination of HPCA 2017**, 2017
-  * Travel Grant for 23rd IEEE Symp. on HPCA, 2017
-  * Travel Grant for 25th Int'l Conf. on PACT, 2016
-  * Travel Grant for 42th Int'l Symp. on ISCA, 2015
-  * Outstanding International Student Award of University of Florida, 2015
-  * Outstanding Academic Achievement of University of Florida, 2014
-  * Excellent Student of University of Chinese Academy of Sciences, 2011
-  * Outstanding Graduate in Huazhong University of Science and Technology, 2010
-  * [First Prize in Texas Instruments DSP Contest](http://qiming.hust.edu.cn/info/1113/2585.htm), 2010 
-  * [Grand Prize in Undergraduate Electronics Design Contest of Hubei Province](http://news.hust.edu.cn/_t6/2008/0930/c159a22343/page.htm), 2008
-
-## Teaching Experience
-  * **Teaching Assistant, University of Florida**
-    * EEL 5934 Advanced Systems Programming, Spring 2017    
-    * EEL 6935 Billion-Transistor Computer Architecture, Spring 2015
-    * EEL 5764 Computer Architecture, Fall 2014
-
-## Professional Services
-  * **Conference Reviewer**:	HPCA, IPDPS, ICDCS, ICPP
 {% endcomment %}
