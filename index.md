@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Kan Zhong: Homepage"
 ---
-<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="150px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Kan Zhong
 {% include social.html %}
@@ -33,19 +33,19 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
 ### Journal Papers
   * **[TPDS'17]** *__Kan Zhong__, Duo Liu, Lingbo Long, Jinting Ren, Yang Li, and Edwin H.-M. Sha,* **["Building NVRAM-Aware Swapping Through CodeMigration inMobile Devices"](static/papers/tpds17-ncode.pdf)**, IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 28, No. 11, pp. 3089-3099, June 2017. (doi:10.1109/TPDS.2017.2713780)
   * **[TC'17]** *Duo Liu, __Kan Zhong__, Xiao Zhu, Yang Li, Lingbo Long, and Zili Shao,* **["Non-VolatileMemory Based Page Swapping for Building High-Performance Mobile Devices"](static/papers/tc17-nvmswap.pdf)**, IEEE Transactions on Computer (TC), Vol. 66,No. 11, pp. 1918-1931, June 2017. (doi:10.1109/TC.2017.2711620)
-  * **[FGCS'17]** *Xiao Zhu, Duo Liu, Liang Liang, __Kan Zhong__, Linbo Long, Meikang Qiu, Zili Shao, and Edwin H.-M. Sha,* **["Revisiting Swapping inMobile Systems with SwapBench"](static/papers/In-situ_AI.pdf)**, Future Generation Computer Systems, Vol. 74, pp. 265-275, Sep. 2017. (doi:10.1016/j.future.2016.05.026)
+  * **[FGCS'17]** *Xiao Zhu, Duo Liu, Liang Liang, __Kan Zhong__, Linbo Long, Meikang Qiu, Zili Shao, and Edwin H.-M. Sha,* **["Revisiting Swapping in Mobile Systems with SwapBench"](static/papers/fgcs17-swapbench.pdf)**, Future Generation Computer Systems, Vol. 74, pp. 265-275, Sep. 2017. (doi:10.1016/j.future.2016.05.026)
   * **[TPDS'16]** *Duo Liu, __Kan Zhong__, Tianzheng Wang, Yi Wang, Zili Shao, Edwin H.-M. Sha, and Jingling Xue,* **["Durable Address Translation in PCM-based Flash Storage Systems"](static/papers/tpds16-pcmftl.pdf)**, IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 28, No. 2, pp. 475-490, June 2016. (doi:10.1109/TPDS.2016.2586059)
   * **[FGCS'16]** *Linbo Long, Edwin H.-M. Sha, Duo Liu, Liang Liang, __Kan Zhong__, and Xiao Zhu, **["A Compiler Assisted Wear Leveling for Morphable PCM in Embedded Systems"](static/papers/fgcs16-wear.pdf)**, Future Generation Computer Systems, Vol. 71, pp. 32-43, Nov. 2016. (doi:10.1016/j.sysarc.2016.06.007)
   * **[TCAD'15]** *__Kan Zhong__, Duo Liu, Liang Liang, Xiao Zhu, Linbo Long, Yi Wang, and Edwin H.-M. Sha,* **["Energy-Efficient In-memory Paging for Smartphones"](static/papers/tcad15-drswap.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 10, pp. 1577-1590, Oct. 2015. (doi:10.1109/TCAD.2015.2512904)
-  * **[TCAD'15]** *Linbo Long, Duo Liu, Liang Liang, Xiao Zhu, __Kan Zhong__, Zili Shao, and Edwin H.-M. Sha,**["Morphable ResistiveMemory Optimization for Mobile Virtualization"](static/papers/tcad15-ballon.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 6, pp. 891-904, Oct. 2015. (doi:10.1109/TCAD.2015.2495264)
+  * **[TCAD'15]** *Linbo Long, Duo Liu, Liang Liang, Xiao Zhu, __Kan Zhong__, Zili Shao, and Edwin H.-M. Sha,* **["Morphable ResistiveMemory Optimization for Mobile Virtualization"](static/papers/tcad15-ballon.pdf)**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 6, pp. 891-904, Oct. 2015. (doi:10.1109/TCAD.2015.2495264)
   
 ## Awards and Honors
 
 
 ## Teaching Experience
   * **Teaching Assistant**
-  * CST30102, Computer Architecture (Enrollment: ~80) Spring 2014
-  * CST30102, Computer Architecture (Enrollment: ~90) Spring 2015
+  * CST30102, Computer Architecture (Enrollment: ~80), Spring 2014
+  * CST30102, Computer Architecture (Enrollment: ~90), Spring 2015
 
 {% comment %}
 
