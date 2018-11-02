@@ -42,10 +42,10 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
 ## Software
   * **NVM-Swap**
     * Building a NVRAM-based swapping system for mobile devices
-	* Code and details are available at [nvm-swap.bitbucket.io](https://nvm-swap.bitbucket.io/)
+	* Kernel code and details are available at [nvm-swap.bitbucket.io](https://nvm-swap.bitbucket.io/)
   * **Flight-AR.Drone-2**
     * A controller of parrot AR.drone 2 on Windows
-	* Code available at https://github.com/zhongkan/Flight-AR.Drone-2
+	* Code available at [github.com/zhongkan/Flight-AR.Drone-2](https://github.com/zhongkan/Flight-AR.Drone-2)
   
 ## Awards and Honors
   * First Prize Winner, The Programming Contest of Chongqing University, May 2013
