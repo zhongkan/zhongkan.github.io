@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Kan Zhong: Homepage"
 ---
-<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="150px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/zhongkan.jpg" class="img-thumbnail" width="130px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Kan Zhong
 {% include social.html %}
