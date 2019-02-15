@@ -31,6 +31,7 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
   
 
 ### Journal Papers
+  * **[TPDS'18]** *__Kan Zhong__, Duo Liu, Yunsong Wu, Lingbo Long, Weichen Liu, Jinting Ren, Renping Liu, Liang Liang, Zili Shao, * **["Towards Fast and Lightweight Checkpointing for Mobile Virtualization using NVRAM"](static/papers/tpds18-flic.pdf)**, IEEE Transactions on Parallel and Distributed Systems (TPDS) (Accepted).
   * **[TPDS'17]** *__Kan Zhong__, Duo Liu, Lingbo Long, Jinting Ren, Yang Li, and Edwin H.-M. Sha,* **["Building NVRAM-Aware Swapping Through CodeMigration inMobile Devices"](static/papers/tpds17-ncode.pdf)**, IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 28, No. 11, pp. 3089-3099, June 2017. (doi:10.1109/TPDS.2017.2713780)
   * **[TC'17]** *Duo Liu, __Kan Zhong__, Xiao Zhu, Yang Li, Lingbo Long, and Zili Shao,* **["Non-VolatileMemory Based Page Swapping for Building High-Performance Mobile Devices"](static/papers/tc17-nvmswap.pdf)**, IEEE Transactions on Computer (TC), Vol. 66,No. 11, pp. 1918-1931, June 2017. (doi:10.1109/TC.2017.2711620)
   * **[FGCS'17]** *Xiao Zhu, Duo Liu, Liang Liang, __Kan Zhong__, Linbo Long, Meikang Qiu, Zili Shao, and Edwin H.-M. Sha,* **["Revisiting Swapping in Mobile Systems with SwapBench"](static/papers/fgcs17-swapbench.pdf)**, Future Generation Computer Systems, Vol. 74, pp. 265-275, Sep. 2017. (doi:10.1016/j.future.2016.05.026)
