@@ -14,7 +14,7 @@ I am a graduated Ph.D student of Collecge of Computer Science, [Chongqing Univer
 
 
 ## Research Interests
-  * The application and software design of **emerging byte-addressable non-voatile memory**
+  * The application and software design of **emerging byte-addressable non-volatile memory**
   * High-performance and energy-efficient **mobile devices**
   * High-performance **storage systems**
   
